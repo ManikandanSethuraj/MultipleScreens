@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MultipleScreens</string>
+
+    <string-array name="news_names">
+        <item>"New Channel 1"</item>
+        <item>"News Channel 2"</item>
+        <item>"News Channel 3"</item>
+        <item>"News Channel 4"</item>
+        <item>"News Channel 5"</item>
+        <item>"News Channel 6"</item>
+
+
+    </string-array>
+
+    <string-array name="news_list">
+
+        <item>
+            "News Item 1..\n
+            News Item 2..\n
+            News Item 3..\n
+            News Item 4..\n
+            News Item 5..\n
+            News Item 6..\n"
+        </item>
+    </string-array>
+</resources>
